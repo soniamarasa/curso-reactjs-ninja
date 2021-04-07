@@ -1,0 +1,24 @@
+button {
+  border: 0;
+  color: #fff;
+  font-weight: 700;
+  padding: 0 20px;
+
+  transition: all 0.25s ease-in-out;
+}
+
+.danger {
+  background: rgb(241, 123, 69);
+}
+
+.danger:hover {
+  background:  rgb(165, 75, 34);
+}
+
+.success {
+  background: rgb(112, 156, 71);
+}
+
+.success:hover {
+  background: rgb(66, 99, 36);
+}
